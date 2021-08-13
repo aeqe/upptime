@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rudi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 153,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "uptime": "89.87%",
+    "uptimeDay": "79.60%",
+    "uptimeWeek": "89.87%",
+    "uptimeMonth": "89.87%",
+    "uptimeYear": "89.87%",
+    "time": 148,
+    "timeDay": 147,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2021-08-12": 0
+      "2021-08-13": 36,
+      "2021-08-12": 258
     }
   },
   {
@@ -25,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rudi-vercel",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "97.41%",
-    "uptimeYear": "97.41%",
-    "time": 596,
-    "timeDay": 717,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
+    "time": 631,
+    "timeDay": 772,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2021-08-11": 68
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 913,
-    "timeWeek": 877,
-    "timeMonth": 877,
-    "timeYear": 877,
+    "time": 855,
+    "timeDay": 787,
+    "timeWeek": 855,
+    "timeMonth": 855,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
