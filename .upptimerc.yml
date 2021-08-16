@@ -9,6 +9,8 @@ sites:
     url: $ENDPOINT_RUDI_VERCEL_URL
   - name: blog
     url: https://b.zimpatrick.gq
+  - name: wummy (für freund)
+    url: https://wummy.one/
 
 status-website:
   baseUrl: /upptime
