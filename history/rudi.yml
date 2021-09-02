@@ -1,7 +1,7 @@
 url: $ENDPOINT_INNERRUDI_URL
-status: up
+status: degraded
 code: 200
-responseTime: 301
-lastUpdated: 2021-09-01T23:15:38.552Z
+responseTime: 154
+lastUpdated: 2021-09-02T17:04:00.458Z
 startTime: Wed Aug 11 2021 00:17:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
