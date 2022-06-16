@@ -8,7 +8,7 @@
     "uptime": "89.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "23.55%",
+    "uptimeMonth": "23.53%",
     "uptimeYear": "89.24%",
     "time": 278,
     "timeDay": 280,
@@ -16,7 +16,7 @@
     "timeMonth": 242,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-06-16": 64,
+      "2022-06-16": 70,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2022-06-16": 64,
+      "2022-06-16": 70,
       "2022-06-15": 1440,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -213,17 +213,19 @@
     "url": "https://wummy.one/",
     "icon": "https://favicons.githubusercontent.com/wummy.one",
     "slug": "wummy-fuer-freund",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 269,
-    "timeWeek": 385,
-    "timeMonth": 364,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 388,
+    "timeDay": 164,
+    "timeWeek": 344,
+    "timeMonth": 354,
+    "timeYear": 388,
+    "dailyMinutesDown": {
+      "2022-06-16": 0
+    }
   }
 ]
