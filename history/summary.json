@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rudi",
     "status": "down",
-    "uptime": "40.03%",
+    "uptime": "39.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 528,
-    "timeDay": 492,
-    "timeWeek": 459,
-    "timeMonth": 797,
+    "time": 529,
+    "timeDay": 406,
+    "timeWeek": 445,
+    "timeMonth": 792,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2023-07-01": 72,
+      "2023-07-02": 71,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -379,8 +380,7 @@
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
-      "2022-07-03": 1440,
-      "2022-07-02": 1440
+      "2022-07-03": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 616,
-    "timeDay": 643,
-    "timeWeek": 486,
-    "timeMonth": 555,
+    "timeDay": 618,
+    "timeWeek": 541,
+    "timeMonth": 554,
     "timeYear": 614,
     "dailyMinutesDown": {}
   },
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wummy.one.ico",
     "slug": "wummy-fuer-freund",
     "status": "down",
-    "uptime": "50.41%",
+    "uptime": "50.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.21%",
-    "time": 356,
+    "uptimeYear": "6.96%",
+    "time": 355,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 361,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-07-01": 73,
+      "2023-07-02": 71,
+      "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
@@ -757,8 +758,7 @@
       "2022-07-30": 1440,
       "2022-07-29": 1440,
       "2022-07-28": 1440,
-      "2022-07-27": 788,
-      "2022-07-02": 20
+      "2022-07-27": 788
     }
   }
 ]
