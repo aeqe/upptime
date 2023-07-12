@@ -3,8 +3,8 @@ owner: stupldstuff # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: rudi
-    url: $ENDPOINT_INNERRUDI_URL
+  - name: git
+    url: $ENDPOINT_GIT
   - name: rudi vercel
     url: $ENDPOINT_RUDI_VERCEL_URL
   - name: wummy (für freund)
