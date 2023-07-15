@@ -1,22 +1,15 @@
-# Change these first
-owner: stupldstuff # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: stupldstuff
+repo: upptime
 
 sites:
   - name: git
     url: $ENDPOINT_GIT
-  - name: rudi vercel
-    url: $ENDPOINT_RUDI_VERCEL_URL
-  - name: wummy (für freund)
-    url: https://wummy.one/
 
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  theme: ocean
-  introTitle: "**Upptime**"
-  introMessage: yay uptime & downtime yay
+  theme: night
   navbar:
     - title: Status
       href: /
@@ -25,3 +18,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - zImPatrick
