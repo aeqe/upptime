@@ -1,7 +1,7 @@
 url: $ENDPOINT_GIT
-status: up
-code: 200
-responseTime: 861
-lastUpdated: 2023-11-03T23:13:12.315Z
+status: down
+code: 530
+responseTime: 408
+lastUpdated: 2023-11-04T06:32:48.187Z
 startTime: 2023-07-12T03:28:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
