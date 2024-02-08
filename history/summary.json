@@ -4,7 +4,7 @@
     "url": "$ENDPOINT_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "95.71%",
     "uptimeDay": "78.41%",
     "uptimeWeek": "88.07%",
