@@ -4,6 +4,8 @@ repo: upptime
 sites:
   - name: git
     url: $ENDPOINT_GIT
+  - name: r6
+    url: https://r6.pattrick.dev # mal schauen, wie hart das gescraped wird ¯\_(ツ)_/¯
 
 status-website:
   baseUrl: /upptime
