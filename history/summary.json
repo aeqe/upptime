@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "81.59%",
+    "uptime": "81.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "77.67%",
     "time": 854,
-    "timeDay": 430,
-    "timeWeek": 2257,
-    "timeMonth": 983,
+    "timeDay": 659,
+    "timeWeek": 2273,
+    "timeMonth": 989,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2024-09-29": 72,
@@ -161,8 +161,7 @@
       "2023-10-16": 228,
       "2023-10-13": 229,
       "2023-10-11": 24,
-      "2023-10-08": 10,
-      "2023-10-06": 564
+      "2023-10-08": 10
     }
   },
   {
@@ -171,14 +170,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/r6.patriick.dev.ico",
     "slug": "r6",
     "status": "up",
-    "uptime": "95.74%",
+    "uptime": "95.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "95.74%",
+    "uptimeYear": "95.77%",
     "time": 606,
-    "timeDay": 506,
-    "timeWeek": 3341,
+    "timeDay": 660,
+    "timeWeek": 3360,
     "timeMonth": 1248,
     "timeYear": 606,
     "dailyMinutesDown": {
