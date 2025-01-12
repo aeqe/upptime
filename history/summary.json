@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "85.57%",
+    "uptime": "85.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.97%",
     "uptimeMonth": "98.36%",
     "uptimeYear": "78.70%",
-    "time": 758,
-    "timeDay": 444,
-    "timeWeek": 593,
+    "time": 757,
+    "timeDay": 403,
+    "timeWeek": 570,
     "timeMonth": 626,
     "timeYear": 677,
     "dailyMinutesDown": {
@@ -149,8 +149,7 @@
       "2024-01-24": 11,
       "2024-01-18": 11,
       "2024-01-17": 70,
-      "2024-01-14": 457,
-      "2024-01-13": 272
+      "2024-01-14": 457
     }
   },
   {
@@ -164,11 +163,11 @@
     "uptimeWeek": "93.72%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "96.92%",
-    "time": 601,
-    "timeDay": 451,
-    "timeWeek": 465,
-    "timeMonth": 556,
-    "timeYear": 601,
+    "time": 600,
+    "timeDay": 432,
+    "timeWeek": 446,
+    "timeMonth": 555,
+    "timeYear": 600,
     "dailyMinutesDown": {
       "2025-01-11": 25,
       "2025-01-09": 599,
